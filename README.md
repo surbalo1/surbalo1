@@ -15,7 +15,6 @@
 ## 👋 About Me
 
 Hey! I’m Rafael — a firmware engineer focused on **embedded systems, IoT, and low-power devices**.  
-Right now I’m at **IMTECH**, working on firmware for **MSP430** and **RSL10** microcontrollers with BLE and cellular connectivity.
 
 I enjoy digging into registers, optimizing code for power efficiency, and making hardware and software work seamlessly together.  
 Outside of work, I like experimenting with embedded ML, debugging boards, and automating small hardware tools.
