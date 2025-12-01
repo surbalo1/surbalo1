@@ -2,11 +2,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Rafael+Gonzalez;Electronics+Engineer;Embedded+Systems+%7C+IoT+%7C+AI;Based+in+Chihuahua,+Mexico" alt="Typing SVG" />
 
-### ⚙️ Electronics Engineer | Embedded Systems | IoT | Firmware
+### ⚡ Electronics Engineer | Embedded Systems & IoT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-glez-chong/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael.glez.chong@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surbalo1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surbalo1)
 
 </div>
 
@@ -14,24 +14,28 @@
 
 ## 👋 About Me
 
-I am an electronics engineer with experience in **embedded firmware, IoT systems, field implementation, and system integration**.  
-I have worked in **Mexico, Germany, and the United States**, giving me a practical understanding of how engineering is applied in real environments.
+Hey! I’m **Rafael Gonzalez** — an electronics engineer passionate about **embedded systems, IoT solutions, and AI integration**.  
 
-I focus on **low-level development**, **connectivity**, and **AI applied to embedded devices**.  
-I enjoy debugging hardware, optimizing code, and building reliable systems.
+I enjoy debugging low-level firmware, optimizing real-time systems, and making hardware and software work in harmony.  
 
-**Current focus:** embedded firmware, IoT connectivity, cellular IoT, embedded ML, integration testing.
+Outside work, I explore **embedded ML**, IoT sensor automation, and open-source projects.  
+
+🎓 Completed **Global Summer Institute (Big Data & AI)** at **UT Austin**, top marks in Python and AI modules.
+
+**Current focus:** low-power firmware • BLE & IoT protocols • embedded ML • field integration
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:** C, C++, MicroPython, Python  
-**Microcontrollers:** MSP430, RSL10, ESP32, PIC18F4550, STM32  
-**Protocols:** UART, SPI, I2C, LoRa, BLE, Cellular, MQTT  
-**Tools:** Git, Docker, CCS, VS Code, Vivado, oscilloscopes, PLC benches  
-**AI/ML:** TensorFlow, PyTorch, NumPy, pandas  
-**Other:** FreeRTOS, PCB design, schematics, field integration  
+| Category | Skills & Tools |
+|----------|----------------|
+| **Languages** | C, C++, Python, MicroPython, JavaScript |
+| **MCUs** | MSP430, ESP32, RSL10, STM32, Arduino |
+| **Protocols** | UART, SPI, I2C, BLE, LoRa, Cellular |
+| **AI/ML** | TensorFlow, PyTorch, scikit-learn, FastAPI, Azure AI |
+| **Software & DevOps** | Git, Docker, Node.js, PostgreSQL, CCS, VS Code, Vivado |
+| **Other Tools** | FreeRTOS, PCB Design, JTAG Debugging, Power Electronics |
 
 ---
 
@@ -39,11 +43,11 @@ I enjoy debugging hardware, optimizing code, and building reliable systems.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=surbalo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surbalo1&show_icons=true&theme=radical&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surbalo1&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surbalo1&layout=compact&theme=radical&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=surbalo1&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surbalo1&theme=radical&hide_border=true)
 
 </div>
 
@@ -51,96 +55,64 @@ I enjoy debugging hardware, optimizing code, and building reliable systems.
 
 ## 🚀 Featured Projects
 
-### 🔹 [IoT Sensor Data Pipeline](https://github.com/surbalo1)
-End-to-end IoT architecture using MQTT, PostgreSQL, Node.js, and real-time dashboards.
-
-### 🔹 [ESP32 Digital AC Motor Controller](https://github.com/surbalo1)
-PID-based AC motor controller with encoder feedback on ESP32.
-
-### 🔹 [BSP for ESP32 and PIC18F4550](https://github.com/surbalo1)
-Hardware abstraction layer for two microcontroller families.
-
-### 🔹 [Embedded ML: Temperature Monitor](https://github.com/surbalo1)
-Real-time microcontroller ML using K-Means and KNN.
-
-### 🔹 [Real-Time Emotion Recognition](https://github.com/surbalo1)
-Streamlit app using OpenCV and FER for face emotion detection.
+| Project | Description | Link |
+|---------|-------------|------|
+| **ESP32 AC Motor Controller** | Real-time AC motor speed control using TRIAC phase-angle modulation | [GitHub](https://github.com/surbalo1/esp32-ac-motor-controller) |
+| **RSL10 Blinky RTT Debug** | LED control for ARM Cortex-M3 with real-time SEGGER RTT monitoring | [GitHub](https://github.com/surbalo1/rsl10-blinky-rtt-debug) |
+| **Embedded BSP ESP32 & PIC18F** | Board Support Package for hardware abstraction layer | [GitHub](https://github.com/surbalo1/embedded-bsp-esp32-pic18f) |
+| **Multi-Personality Chatbot** | AI chatbot with multiple personalities using Python & Streamlit | [GitHub](https://github.com/surbalo1/multi-personality-chatbot) |
+| **Embedded ML Temperature Monitor** | Microcontroller ML (K-Means & KNN) for real-time classification | [GitHub](https://github.com/surbalo1/embedded-ml-temperature-monitor) |
+| **UT Austin Big Data Analysis** | R & SQL predictive modeling and data visualization projects | [GitHub](https://github.com/surbalo1/ut-austin-big-data-analysis) |
 
 ---
 
-## 💼 Experience
+## 💼 Experience Highlights
 
-### **Implementation & System Integration Engineer**  
-IMTECH Desarrollos • Chihuahua, Mexico • Sep 2025 – Present  
-- Integrated MSP430 and RSL10 platforms in C.  
-- Developed PLC bench workflows for validation.  
-- Guided junior engineers and supported process improvements.  
-- Worked with management to align engineering with business.
+- **Implementation & System Integration Engineer @ IMTECH** (Sep 2025 – Present)  
+  Led MSP430 and RSL10 firmware integration, validated hardware, and optimized workflows.  
 
-### **Electrical Engineer Intern (Field)**  
-Balsas GmbH • Erfurt, Germany • Jan 2025 – Jun 2025  
-- Assisted residential electrical renovations under DIN VDE 0100 and 0105.  
-- Coordinated materials, schedules, and field issues.  
-- Ensured quality and inspection compliance.
+- **Electrical Engineer Intern @ BALSAS GmbH (Germany)** (Jan – Jun 2025)  
+  Coordinated residential electrical projects under DIN VDE standards, improving process efficiency.  
 
-### **Hardware Implementation Engineer**  
-FAHR Electronic Systems • May 2024 – Oct 2024  
-- Developed ESP32 firmware with MicroPython, BLE, LoRa, OTA.  
-- Integrated sensors and performed real-time image recognition.  
-- Documented firmware and PCB architecture.  
-- Supported field debugging and full system tests.
+- **Hardware Implementation Engineer @ FAHR Electronic Systems** (May – Oct 2024)  
+  Developed ESP32 embedded solutions with LoRa, BLE, OTA, and real-time image recognition.  
 
-### **QA Technician**  
-GM&T Engineering • Nov 2023 – May 2024  
-- Performed 50+ wiring harness tests per day under OEM standards.  
-- Maintained 98 percent first-pass yield.  
-- Documented failures and supported manufacturing lines.
-
-### **Electronic Technician**  
-FAHR Electronic Systems • Jan 2023 – Nov 2023  
-- Assembled and tested IoT PCBs.  
-- Improved debugging workflow, reducing time by 25 percent.  
-- Supported PCB layout and assembly improvements.
+- **Electronic Technician @ FAHR Electronic Systems** (Jan 2023 – Nov 2023)  
+  Tested IoT PCBs, improved assembly and debugging workflows, reduced field debugging time by 25%.  
 
 ---
 
 ## 🎓 Education
 
-**Global Summer Institute (Big Data & AI)**  
-University of Texas at Austin • Summer 2025  
-- 120-hour program on Big Data, Python, and AI fundamentals via Fulbright COMEXUS.  
-- Built ML models with high performance.  
-- Worked in international teams.
+**B.Sc. in Electronic Engineering** – Chihuahua Institute of Technology (2020–2024)  
+GPA: 90.83 / 100 • Minor: Intelligent Embedded Systems  
 
-**B.Sc. Electronic Engineering**  
-Chihuahua Institute of Technology • 2020 – 2024  
-GPA: 90.83/100  
-Minor in Intelligent Embedded Systems.
+**Certificate – Global Summer Institute (Big Data & AI)** – UT Austin (Summer 2025)  
+Fulbright–COMEXUS Scholar • Applied ML, AI, Python, and Big Data projects  
 
 ---
 
-## 🧾 Certifications
+## 🏆 Certifications
 
-- Microsoft Azure Fundamentals (AZ-900)  
-- Power BI Essentials  
-- Azure AI Essentials  
-- PMI Project Management Foundations  
-- CompTIA Security+ (in progress)  
-- Node.js  
-- .NET MAUI Foundations  
+Microsoft Azure Fundamentals • CompTIA Security+ (in progress) • Power BI • Azure AI  
+Node.js • .NET MAUI • PMI Project Management Foundations • Lean Six Sigma White Belt  
 
 ---
 
 ## 🌍 Languages
-Spanish (Native) • English (C1) • German (A2)
+
+🇪🇸 Spanish (Native) • 🇬🇧 English (C1) • 🇩🇪 German (A2)
+
+---
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-glez-chong/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael.glez.chong@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surbalo1)
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=surbalo1&color=blueviolet&style=flat-square)
-
-<br>
-“Making hardware talk and software listen.”
-
+⭐ _“Turning embedded systems into smart solutions."_  
 </div>
