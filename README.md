@@ -43,7 +43,30 @@ languages: ["Spanish 🇪🇸 (Native)", "English 🇬🇧 (C1)", "German 🇩�
 
 ---
 
+## ⚡ Currently
+
+<div align="center">
+
+| 🔭 Working On | 🌱 Learning | 💬 Ask Me About |
+|:-------------:|:-----------:|:---------------:|
+| IoT Integration Projects @ IMTECH | Rust for Embedded | ESP32, RSL10, MQTT |
+| AI Automation Systems | Advanced BLE Protocols | FastAPI, OpenAI APIs |
+| MSP430/RSL10 Firmware | Cloud-Edge Computing | I2C, SPI, UART |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
+
+<div align="center">
+
+<!-- Skill Icons (Modern Display) -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,r,arduino,raspberrypi,tensorflow,pytorch,opencv,fastapi,nodejs,react,docker,postgres,git,linux,vscode,azure&perline=10" />
+</a>
+
+</div>
 
 <div align="center">
 
@@ -102,6 +125,26 @@ languages: ["Spanish 🇪🇸 (Native)", "English 🇬🇧 (C1)", "German 🇩�
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=surbalo1&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
+</div>
+
+<!-- GitHub Trophies -->
+<div align="center">
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=surbalo1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5"/>
+
+</div>
+
+<!-- Profile Summary Cards -->
+<div align="center">
+
+### 📈 Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surbalo1&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surbalo1&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=surbalo1&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surbalo1&theme=tokyonight&utcOffset=-6" width="32%"/>
+
 </div>
 
 ---
