@@ -1,0 +1,17 @@
+ai-coaching/
+bsp-embedded/
+chatbot/
+emotion-recognition/
+esp32-motor/
+iot-pipeline/
+msp430-bridge/
+pharmacy-ai/
+rsl10-adc/
+rsl10-blinky/
+rsl10-i2c/
+rsl10-systick/
+rsl10-uart/
+sensor-dash/
+ut-austin-data/
+weather-client/
+.DS_Store
