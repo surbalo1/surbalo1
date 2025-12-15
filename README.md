@@ -235,12 +235,14 @@ I'm always open to discussing embedded systems, IoT solutions, AI integration, o
 
 <div align="center">
 
-<!-- Snake Animation -->
+<!-- Snake Animation (Generated from my contributions) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surbalo1/surbalo1/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/surbalo1/surbalo1/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/surbalo1/surbalo1/output/github-snake.svg">
 </picture>
+
+![Snake animation](https://raw.githubusercontent.com/surbalo1/surbalo1/output/ocean.gif)
 
 </div>
 
