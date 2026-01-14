@@ -14,6 +14,7 @@
 <a href="https://www.linkedin.com/in/rafael-glez-chong/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:rafael.glez.chong@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/surbalo1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://rafael-gonzalez.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <img src="https://komarev.com/ghpvc/?username=surbalo1&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 
@@ -26,20 +27,20 @@
 ```yaml
 name: Rafael Ignacio González Chong
 location: Chihuahua, Mexico 🇲🇽
-current_role: Implementation & System Integration Engineer @ IMTECH
+current_role: Systems Integration Engineer @ IMTECH Desarrollos
 education: B.Sc. Electronic Engineering | UT Austin Fulbright Scholar (Big Data & AI)
 
 focus_areas:
-  - Low-Power Firmware Development (MSP430, RSL10, ESP32)
+  - Pre-sales, Implementation & Post-deployment Support
+  - Embedded Systems Integration (MSP430, RSL10, ESP32)
   - IoT & Connectivity Protocols (BLE, LoRa, MQTT, Cellular)
-  - AI/ML Integration for Embedded Systems
-  - Real-time Systems & RTOS
+  - Technical Demonstrations & Customer Solutions
 
 passions:
-  - Making hardware and software work in perfect harmony
-  - Optimizing systems for performance and power efficiency
+  - Translating customer needs into feasible technical solutions
+  - Supporting sales teams with validation and demos
   - Building end-to-end IoT solutions from sensor to cloud
-  - Open-source embedded projects
+  - Cross-functional coordination in international environments
 
 languages: ["Spanish 🇪🇸 (Native)", "English 🇬🇧 (C1)", "German 🇩🇪 (A2)"]
 ```
@@ -52,9 +53,9 @@ languages: ["Spanish 🇪🇸 (Native)", "English 🇬🇧 (C1)", "German 🇩�
 
 | 🔭 Working On | 🌱 Learning | 💬 Ask Me About |
 |:-------------:|:-----------:|:---------------:|
-| IoT Integration Projects @ IMTECH | Rust for Embedded | ESP32, RSL10, MQTT |
-| AI Automation Systems | Advanced BLE Protocols | FastAPI, OpenAI APIs |
-| MSP430/RSL10 Firmware | Cloud-Edge Computing | I2C, SPI, UART |
+| Systems Integration @ IMTECH | Advanced BLE Protocols | ESP32, MSP430, RSL10 |
+| Technical Demos & Customer Solutions | Cloud-Edge Computing | I2C, SPI, UART, PLC |
+| Validation & Deployment Workflows | Rust for Embedded | IoT, Field Integration |
 
 </div>
 
@@ -207,32 +208,74 @@ languages: ["Spanish 🇪🇸 (Native)", "English 🇬🇧 (C1)", "German 🇩�
 ```mermaid
 timeline
     title Career Timeline
-    2023 : Electronic Technician @ FAHR
+    2023 : Electronics Technician @ FAHR
          : IoT PCB testing & assembly
          : Reduced debugging time by 25%
+         : Sales Executive @ STEREN
+         : Technical product advisory
     2024 : QA Technician @ GM&T
-         : Hardware Implementation @ FAHR
+         : 98% first-pass yield
+         : Solutions Engineer @ FAHR
          : ESP32, LoRa, BLE, OTA updates
-    2025 : Electrical Engineer @ BALSAS (Germany)
+    2025 : Electrical Engineer Intern @ BALSAS (Germany)
          : DIN VDE standards & team coordination
-         : Implementation Engineer @ IMTECH
+         : UT Austin Fulbright Scholar
+         : Big Data & AI Certificate
+         : Systems Integration Engineer @ IMTECH
          : MSP430, RSL10 firmware integration
 ```
 
 </div>
 
 ### 🏢 Current Role
-**Implementation & System Integration Engineer** @ IMTECH Desarrollos *(Sep 2025 - Present)*
-- 🔧 Leading embedded platform integration (MSP430, RSL10) in C
-- 📋 Defining firmware-hardware validation workflows with PLC test benches
-- 👥 Mentoring junior engineers & advising on operational improvements
-- 🎯 Aligning technical solutions with business goals
+**Systems Integration Engineer** @ IMTECH Desarrollos *(Sep 2025 - Dec 2025)*
+- 🔧 Integrated embedded platforms (MSP430, RSL10) into customer-facing systems using C
+- 📋 Translated customer and business needs into validation, deployment workflows, and KPIs
+- 👥 Supported technical alignment, delivery execution, and onboarding of junior engineers
+- 🛠️ Tools: Excel, UART, SPI, I2C, PLC test benches, PCBs, schematics, Git
 
 ### 🌍 International Experience
-**Electrical Engineer Intern** @ BALSAS GmbH, Germany *(Jan - Jun 2025)*
-- 🇩🇪 Residential electrical renovations per DIN VDE standards
-- 📅 Team coordination, scheduling, and materials management
-- ✅ Inspection compliance and installation quality assurance
+**Electrical Engineer Intern** @ BALSAS GmbH, Germany *(Jan 2025 - Jul 2025)*
+- 🇩🇪 Supported residential electrical renovation projects under DIN VDE regulations
+- 📅 Coordinated on-site activities with customers, inspectors, and contractors
+- ✅ Assisted in resolving installation issues to meet inspection, safety, and delivery requirements
+
+### 💡 Previous Roles
+
+<details>
+<summary><b>Solutions Engineer @ FAHR Electronic Systems</b> (May 2024 - Jan 2025)</summary>
+
+- Implemented ESP32 embedded solutions using MicroPython with LoRa, BLE, and OTA
+- Delivered customer-facing demos, prototype validation, and requirement-to-solution translation
+- Supported field debugging, end-to-end testing, and technical documentation
+- Tools: ESP32, MicroPython, LoRa, BLE, OTA, UART, SPI, I2C, Git, PCBs
+</details>
+
+<details>
+<summary><b>QA Technician @ GM&T Engineering, Inc.</b> (Nov 2023 - May 2024)</summary>
+
+- Executed wiring harness validation according to OEM and ISO TS 16949 standards
+- Documented defects and supported root-cause analysis with manufacturing teams
+- Maintained 98% first-pass yield through disciplined quality execution
+- Tools: Wiring harness testers, multimeter, ISO TS 16949
+</details>
+
+<details>
+<summary><b>Sales Executive @ STEREN Mexico</b> (Jun 2023 - Nov 2023)</summary>
+
+- Advised customers on electronic and technical products based on functional requirements
+- Translated customer needs into suitable technical solutions, improving repeat purchases by ~8%
+- Supported pre-sale product selection and basic troubleshooting for electronic components
+</details>
+
+<details>
+<summary><b>Electronics Technician @ FAHR Electronic Systems</b> (Jan 2023 - Jun 2023)</summary>
+
+- Assembled and tested IoT PCB prototypes for field and pilot deployments
+- Supported troubleshooting during installations, reducing debugging time by 25%
+- Collaborated with engineering teams on PCB layout and assembly improvements
+- Tools: Oscilloscope, soldering tools, IoT sensors
+</details>
 
 ---
 
@@ -253,14 +296,27 @@ timeline
 
 <div align="center">
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+### 🔐 Cybersecurity
+![CompTIA](https://img.shields.io/badge/CompTIA_Security+_(SY0--701)-FF0000?style=flat-square&logo=comptia&logoColor=white)
+
+### ☁️ Cloud & AI
+![Azure](https://img.shields.io/badge/Microsoft_Azure_Fundamentals_(AZ--900)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure AI](https://img.shields.io/badge/Azure_AI_Essentials-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![CompTIA](https://img.shields.io/badge/CompTIA_Security+_(In_Progress)-FF0000?style=flat-square&logo=comptia&logoColor=white)
-![PMI](https://img.shields.io/badge/PMI_Project_Management-4169E1?style=flat-square&logoColor=white)
+
+### 📊 Data & Analytics
+![Power BI](https://img.shields.io/badge/Power_BI_Essentials-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power BI Dataflows](https://img.shields.io/badge/Power_BI_Dataflows-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+### 📋 Project Management
+![PMI](https://img.shields.io/badge/PMI_Project_Management_Foundations-4169E1?style=flat-square&logoColor=white)
 ![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma_White_Belt-00A550?style=flat-square&logoColor=white)
+
+### 💻 Software Development
 ![Node.js](https://img.shields.io/badge/Node.js_Certified-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI_Foundations-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### 🌐 Languages
+![English](https://img.shields.io/badge/English_C1_(Duolingo_120/160)-58CC02?style=flat-square&logo=duolingo&logoColor=white)
 
 </div>
 
