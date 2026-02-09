@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rafael%20González%20Chong&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=⚡%20Electronics%20Engineer%20|%20Embedded%20Systems%20|%20IoT%20|%20AI&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rafael%20González%20Chong&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Electronics%20Engineer%20|%20Embedded%20Systems%20|%20IoT&descAlignY=52&descSize=18"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Building+the+future+one+circuit+at+a+time+%F0%9F%94%8C;From+firmware+to+cloud%2C+from+sensors+to+AI+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Electronics+Engineer+%7C+Systems+Integration;Embedded+%7C+IoT+%7C+Field+Implementation" alt="Typing SVG" /></a>
 
 <!-- Random Dev Quote -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
@@ -26,36 +26,27 @@
 
 ```yaml
 name: Rafael Ignacio González Chong
-location: Chihuahua, Mexico 🇲🇽
+location: Chihuahua, Mexico
 phone: "+52 614 162 5912"
-current_role: Systems Integration Engineer @ IMTECH Desarrollos
-education: B.Sc. Electronic Engineering | UT Austin Fulbright Scholar (Big Data & AI)
+role: Systems Integration Engineer
 
-summary: |
+background: |
   Electronics Engineer with hands-on experience in system integration, 
-  field implementation, and technical support. Skilled at translating 
-  customer and business requirements into practical solutions, coordinating 
-  cross-functional teams, and driving projects from planning to deployment.
+  field implementation, and technical support. I translate customer and 
+  business requirements into working solutions, coordinate with cross-functional 
+  teams, and drive projects from planning to deployment.
 
-focus_areas:
-  - System Integration & Field Implementation
-  - Embedded Systems (MSP430, RSL10, ESP32, PIC)
-  - IoT & Connectivity (BLE, LoRa, MQTT, HTTP REST)
-  - Technical Support & Customer Solutions
-  - Project Coordination & Documentation
+work:
+  - Systems integration and field deployment
+  - Embedded firmware (MSP430, RSL10, ESP32, PIC)
+  - IoT connectivity (BLE, LoRa, MQTT)
+  - Technical support and customer-facing solutions
+  - Documentation and project coordination
 
-passions:
-  - Translating customer needs into practical technical solutions
-  - Coordinating cross-functional teams internationally
-  - Driving projects from planning to deployment
-  - Building end-to-end IoT solutions from sensor to cloud
-
-goals:
-  - Applied engineering roles
-  - Project coordination opportunities
-  - International growth
-
-languages: ["Spanish 🇪🇸 (Native)", "English 🇬🇧 (C1)", "German 🇩🇪 (A2)"]
+languages:
+  - Spanish (Native)
+  - English (C1)
+  - German (A2)
 ```
 
 ---
@@ -64,11 +55,11 @@ languages: ["Spanish 🇪🇸 (Native)", "English 🇬🇧 (C1)", "German 🇩�
 
 <div align="center">
 
-| 🔭 Working On | 🌱 Learning | 💬 Ask Me About |
-|:-------------:|:-----------:|:---------------:|
-| Systems Integration @ IMTECH | Advanced BLE Protocols | ESP32, MSP430, RSL10 |
-| Technical Demos & Customer Solutions | Cloud-Edge Computing | I2C, SPI, UART, PLC |
-| Validation & Deployment Workflows | Rust for Embedded | IoT, Field Integration |
+| Working On | Learning | Ask Me About |
+|:----------:|:--------:|:------------:|
+| Systems Integration @ IMTECH | BLE protocol stack | ESP32, MSP430, RSL10 |
+| Customer deployments | Cloud-edge patterns | I2C, SPI, UART |
+| Validation workflows | Rust for embedded | IoT field integration |
 
 </div>
 
@@ -87,7 +78,7 @@ languages: ["Spanish 🇪🇸 (Native)", "English 🇬🇧 (C1)", "German 🇩�
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Programming
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -109,7 +100,7 @@ languages: ["Spanish 🇪🇸 (Native)", "English 🇬🇧 (C1)", "German 🇩�
 ![LoRa](https://img.shields.io/badge/LoRa-1E88E5?style=for-the-badge&logoColor=white)
 ![I2C/SPI/UART](https://img.shields.io/badge/I2C_|_SPI_|_UART-FF6F00?style=for-the-badge&logoColor=white)
 
-### 🤖 AI & Machine Learning
+### 🤖 Data & ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -166,55 +157,53 @@ languages: ["Spanish 🇪🇸 (Native)", "English 🇬🇧 (C1)", "German 🇩�
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|:--------|:------------|:-----------|
-| 🔧 [**Pharmacy AI Automation**](https://github.com/surbalo1/Pharmacy-AI-automation-system) | HIPAA-compliant AI platform for pharmacies with multi-channel communication | `Python` `FastAPI` `OpenAI` |
-| ⚡ [**ESP32 AC Motor Controller**](https://github.com/surbalo1/esp32-ac-motor-controller) | Real-time AC motor speed control using TRIAC phase-angle modulation | `C++` `ESP32` `Power Electronics` |
-| 🌡️ [**IoT Sensor Pipeline**](https://github.com/surbalo1/iot-sensor-pipeline) | End-to-end IoT solution: MQTT → Node.js → PostgreSQL → Real-time Dashboard | `JavaScript` `PostgreSQL` `Docker` |
-| 😊 [**Emotion Recognition**](https://github.com/surbalo1/real-time-emotion-recognition) | Real-time facial emotion detection using Streamlit, OpenCV & FER | `Python` `OpenCV` `ML` |
-| 🔌 [**RSL10 I2C Communication**](https://github.com/surbalo1/RSL10-Arduino-I2C-Communication) | Bidirectional I2C between RSL10 (master) and Arduino (slave) | `C` `I2C` `Embedded` |
-| 🤖 [**Multi-Personality Chatbot**](https://github.com/surbalo1/multi-personality-chatbot) | AI chatbot with contextual memory and multiple personalities | `Python` `Streamlit` `LLM` |
-| 📊 [**UT Austin Big Data**](https://github.com/surbalo1/ut-austin-big-data-analysis) | Predictive analytics and statistical modeling from Fulbright program | `R` `SQL` `Data Science` |
-| 🔋 [**RSL10 ADC VDDC Monitor**](https://github.com/surbalo1/rsl10-adc-vddc-monitor) | Internal voltage monitoring with dynamic switching and UART output | `C` `ADC` `Low-Power` |
+| Project | What It Does | Stack |
+|:--------|:-------------|:------|
+| ⚡ [**ESP32 AC Motor Controller**](https://github.com/surbalo1/esp32-ac-motor-controller) | PID speed control for AC motor using TRIAC phase-angle modulation with encoder feedback | `C++` `ESP32` `PID` |
+| 🌡️ [**IoT Sensor Pipeline**](https://github.com/surbalo1/iot-sensor-pipeline) | Data ingestion from sensors → MQTT → Node.js backend → PostgreSQL → dashboard | `JavaScript` `PostgreSQL` `Docker` |
+| 😊 [**Emotion Recognition**](https://github.com/surbalo1/real-time-emotion-recognition) | Webcam-based facial emotion detection using OpenCV and FER model | `Python` `OpenCV` `Streamlit` |
+| 🔌 [**RSL10 I2C Communication**](https://github.com/surbalo1/RSL10-Arduino-I2C-Communication) | Software I2C bit-bang between RSL10 (master) and Arduino (slave) | `C` `I2C` `Embedded` |
+| 🤖 [**AI Chatbot**](https://github.com/surbalo1/multi-personality-chatbot) | Python NLP assistant with contextual memory | `Python` `Streamlit` `LLM` |
+| 📊 [**UT Austin Big Data**](https://github.com/surbalo1/ut-austin-big-data-analysis) | Predictive models from Fulbright program (80% accuracy) | `R` `Python` `TensorFlow` |
+| 🔋 [**RSL10 ADC Monitor**](https://github.com/surbalo1/rsl10-adc-vddc-monitor) | 14-bit ADC voltage monitoring with UART output | `C` `ADC` `Low-Power` |
+| 🔧 [**BSP for ESP32 & PIC18F**](https://github.com/surbalo1/embedded-bsp-esp32-pic18f) | Board support package with HAL for GPIO, UART, ADC | `C` `ESP32` `PIC` |
 
 </div>
 
 <details>
-<summary>📂 <b>View All Projects by Category</b></summary>
+<summary>📂 <b>All Projects by Category</b></summary>
 
 ### 🔌 Embedded Systems & Firmware
 - [`esp32-ac-motor-controller`](https://github.com/surbalo1/esp32-ac-motor-controller) - PID-based AC motor control with phase-angle modulation
-- [`embedded-bsp-esp32-pic18f`](https://github.com/surbalo1/embedded-bsp-esp32-pic18f) - Hardware Abstraction Layer (HAL) for ESP32 & PIC18F
+- [`embedded-bsp-esp32-pic18f`](https://github.com/surbalo1/embedded-bsp-esp32-pic18f) - Hardware abstraction layer for ESP32 and PIC18F
 - [`rsl10-blinky-rtt-debug`](https://github.com/surbalo1/rsl10-blinky-rtt-debug) - ARM Cortex-M3 LED control with SEGGER RTT debugging
-- [`RSL10-UART-LED-Control`](https://github.com/surbalo1/RSL10-UART-LED-Control) - Bidirectional UART communication with command confirmation
-- [`RSL10-SysTick-Timestamp`](https://github.com/surbalo1/RSL10-SysTick-Timestamp) - SysTick-based timestamp system with low-power sleep
-- [`rsl10-adc-vddc-monitor`](https://github.com/surbalo1/rsl10-adc-vddc-monitor) - 14-bit ADC voltage monitoring with dynamic switching
-- [`msp430-arduino-uart-bridge`](https://github.com/surbalo1/msp430-arduino-uart-bridge) - Serial communication bridge with state machine
+- [`RSL10-UART-LED-Control`](https://github.com/surbalo1/RSL10-UART-LED-Control) - Bidirectional UART with command confirmation
+- [`RSL10-SysTick-Timestamp`](https://github.com/surbalo1/RSL10-SysTick-Timestamp) - SysTick timestamp system with low-power sleep
+- [`rsl10-adc-vddc-monitor`](https://github.com/surbalo1/rsl10-adc-vddc-monitor) - 14-bit ADC voltage monitoring
+- [`msp430-arduino-uart-bridge`](https://github.com/surbalo1/msp430-arduino-uart-bridge) - Serial bridge with state machine
 
 ### 🌐 IoT & Connectivity
-- [`iot-sensor-pipeline`](https://github.com/surbalo1/iot-sensor-pipeline) - Full-stack IoT: MQTT → Node.js → PostgreSQL → Dashboard
-- [`sensor-dashboard`](https://github.com/surbalo1/sensor-dashboard) - Real-time sensor visualization with Socket.io & Chart.js
-- [`esp32-weather-client`](https://github.com/surbalo1/esp32-weather-client) - Weather dashboard with MQTT streaming
-- [`RSL10-Arduino-I2C-Communication`](https://github.com/surbalo1/RSL10-Arduino-I2C-Communication) - Software I2C bit-bang implementation
+- [`iot-sensor-pipeline`](https://github.com/surbalo1/iot-sensor-pipeline) - MQTT → Node.js → PostgreSQL → Dashboard
+- [`sensor-dashboard`](https://github.com/surbalo1/sensor-dashboard) - Real-time visualization with Socket.io and Chart.js
+- [`esp32-weather-client`](https://github.com/surbalo1/esp32-weather-client) - Weather dashboard with MQTT
+- [`RSL10-Arduino-I2C-Communication`](https://github.com/surbalo1/RSL10-Arduino-I2C-Communication) - Software I2C implementation
 
-### 🤖 AI & Machine Learning
-- [`Pharmacy-AI-automation-system`](https://github.com/surbalo1/Pharmacy-AI-automation-system) - HIPAA-compliant AI for pharmacy automation
-- [`ai-coaching-system`](https://github.com/surbalo1/ai-coaching-system) - Autonomous AI coaching ecosystem with FastAPI & React
-- [`multi-personality-chatbot`](https://github.com/surbalo1/multi-personality-chatbot) - LLM-powered chatbot with dynamic personalities
-- [`real-time-emotion-recognition`](https://github.com/surbalo1/real-time-emotion-recognition) - Facial emotion detection with FER model
-
-### 📊 Data Science
-- [`ut-austin-big-data-analysis`](https://github.com/surbalo1/ut-austin-big-data-analysis) - Big data projects from UT Austin Fulbright program
+### 🤖 AI & Data
+- [`Pharmacy-AI-automation-system`](https://github.com/surbalo1/Pharmacy-AI-automation-system) - AI assistant for pharmacy operations
+- [`ai-coaching-system`](https://github.com/surbalo1/ai-coaching-system) - FastAPI + React coaching platform
+- [`multi-personality-chatbot`](https://github.com/surbalo1/multi-personality-chatbot) - LLM chatbot with memory
+- [`real-time-emotion-recognition`](https://github.com/surbalo1/real-time-emotion-recognition) - Facial emotion detection
+- [`ut-austin-big-data-analysis`](https://github.com/surbalo1/ut-austin-big-data-analysis) - Predictive analytics projects
 
 </details>
 
 ---
 
-## 💼 Professional Journey
+## 💼 Experience
 
 <div align="center">
 
@@ -222,71 +211,70 @@ languages: ["Spanish 🇪🇸 (Native)", "English 🇬🇧 (C1)", "German 🇩�
 timeline
     title Career Timeline
     2023 : Electronics Technician @ FAHR
-         : IoT PCB testing & assembly
-         : Reduced debugging time by 25%
+         : PCB assembly and testing
          : Sales Executive @ STEREN
-         : Technical product advisory
+         : Technical product support
     2024 : QA Technician @ GM&T
-         : 98% first-pass yield
+         : Wiring harness validation
          : Solutions Engineer @ FAHR
-         : ESP32, LoRa, BLE, OTA updates
+         : ESP32, LoRa, BLE deployments
     2025 : Electrical Engineer Intern @ BALSAS (Germany)
-         : DIN VDE standards & team coordination
+         : DIN VDE installations
          : UT Austin Fulbright Scholar
          : Big Data & AI Certificate
          : Systems Integration Engineer @ IMTECH
-         : MSP430, RSL10 firmware integration
+         : MSP430, RSL10 integration
 ```
 
 </div>
 
 ### 🏢 Current Role
 **Systems Integration Engineer** @ IMTECH Desarrollos *(Sep 2025 - Dec 2025)*
-- 🔧 Integrated electronic platforms (MSP430, RSL10) into 5+ customer-facing systems using C
-- 📋 Developed workflows and KPIs, improving project delivery alignment between technical and commercial teams by 20%
-- 👥 Supported delivery execution and onboarding of junior engineers
-- 🛠️ Tools: Excel, UART, SPI, I2C, PLC test benches, PCBs, schematics, Git
+- Integrated MSP430 and RSL10 platforms into 5+ customer systems using C
+- Developed workflows and KPIs that improved alignment between technical and commercial teams by 20%
+- Supported onboarding of junior engineers and delivery execution
+- Tools: UART, SPI, I2C, PLC test benches, PCBs, schematics, Git
 
 ### 🌍 International Experience
 **Electrical Engineer Intern** @ BALSAS GmbH, Germany *(Jan 2025 - Jul 2025)*
-- 🇩🇪 Supported residential electrical renovation projects under DIN VDE regulations
-- 📅 Coordinated on-site activities with customers, inspectors, and contractors
-- ✅ Assisted in resolving installation issues to meet inspection, safety, and delivery requirements
+- Supported residential electrical renovations under DIN VDE standards
+- Coordinated with customers, inspectors, and contractors on site
+- Helped resolve installation issues to meet inspection and delivery requirements
 
 ### 💡 Previous Roles
 
 <details>
 <summary><b>Solutions Engineer @ FAHR Electronic Systems</b> (May 2024 - Jan 2025)</summary>
 
-- Implemented ESP32 embedded solutions using MicroPython with LoRa, BLE, and OTA
-- Delivered customer-facing demos, prototype validation, and requirement-to-solution translation
-- Supported field debugging, end-to-end testing, and technical documentation
-- Tools: ESP32, MicroPython, LoRa, BLE, OTA, UART, SPI, I2C, Git, PCBs
+- Implemented ESP32 solutions using MicroPython with LoRa, BLE, and OTA
+- Delivered technical demos and validated prototypes for customers
+- Produced deployment and maintenance documentation
+- Tools: ESP32, MicroPython, LoRa, BLE, OTA, UART, SPI, I2C, Git
 </details>
 
 <details>
 <summary><b>QA Technician @ GM&T Engineering, Inc.</b> (Nov 2023 - May 2024)</summary>
 
-- Executed wiring harness validation according to OEM and ISO TS 16949 standards
-- Documented defects and supported root-cause analysis with manufacturing teams
-- Maintained 98% first-pass yield through disciplined quality execution
-- Tools: Wiring harness testers, multimeter, ISO TS 16949
+- Executed wiring harness validation per OEM and ISO TS 16949 standards
+- Supported root cause analysis and continuous improvement
+- Achieved 98% first-pass yield
+- Tools: Wiring harness testers, multimeter
 </details>
 
 <details>
 <summary><b>Sales Executive @ STEREN Mexico</b> (Jun 2023 - Nov 2023)</summary>
 
-- Advised customers on electronic products, leveraging technical knowledge to increase repeat purchases by 10%
+- Advised customers on electronic products, increasing repeat purchases by 10%
 - Supported pre-sales product selection and basic troubleshooting
-- Tools: POS systems, product catalogs, CRM basics, technical datasheets
+- Tools: POS systems, product catalogs, technical datasheets
 </details>
 
 <details>
 <summary><b>Electronics Technician @ FAHR Electronic Systems</b> (Jan 2023 - Jun 2023)</summary>
 
-- Assembled and tested IoT PCB prototypes for field and pilot deployments
-- Supported troubleshooting during installations, reducing debugging time by 25%
-- Collaborated with engineering teams on PCB layout and assembly improvements
+- Assembled and tested IoT PCB prototypes
+- Supported installation troubleshooting, reducing debugging time by 25%
+- Assisted with prototype validation for customer acceptance
 - Tools: Oscilloscope, soldering tools, IoT sensors
 </details>
 
@@ -296,16 +284,16 @@ timeline
 
 <div align="center">
 
-| Institution | Degree | Year | Highlights |
-|:------------|:-------|:-----|:-----------|
-| 🏛️ **University of Texas at Austin** | Certificate - Global Summer Institute (Big Data & AI) | Jul-Aug 2025 | Fulbright-COMEXUS Scholar • 120hr program in Big Data, Python, AI • 80% accuracy predictive models using TensorFlow, PyTorch |
-| 🎓 **Chihuahua Institute of Technology** | B.Sc. Electronic Engineering (Minor: Intelligent Embedded Systems) | Aug 2020 - Dec 2024 | GPA: 90.83/100 • Courses: Real-Time OS, FPGA & SoC, DSP, Microcontrollers, PLC, Power Electronics • IEEE Student Branch Leader • Coordinated Top Business Leader Diploma (50+ students) |
+| Institution | Degree | Period | Notes |
+|:------------|:-------|:-------|:------|
+| 🏛️ **University of Texas at Austin** | Global Summer Institute (Big Data & AI) | Jul-Aug 2025 | Fulbright-COMEXUS Scholar • 120hr program • Built predictive models (80% accuracy) with Python, TensorFlow, PyTorch |
+| 🎓 **Chihuahua Institute of Technology** | B.Sc. Electronic Engineering | Aug 2020 - Dec 2024 | GPA: 90.83/100 • Minor: Intelligent Embedded Systems • Courses: RTOS, FPGA, DSP, Microcontrollers, PLC, Power Electronics • IEEE Student Branch • Coordinated Top Business Leader Diploma (50+ students) |
 
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications
 
 <div align="center">
 
@@ -324,7 +312,7 @@ timeline
 ![PMI](https://img.shields.io/badge/PMI_Project_Management_Foundations-4169E1?style=flat-square&logoColor=white)
 ![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma_White_Belt-00A550?style=flat-square&logoColor=white)
 
-### 💻 Software Development
+### 💻 Development
 ![Node.js](https://img.shields.io/badge/Node.js_Certified-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI_Foundations-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
@@ -335,14 +323,14 @@ timeline
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Contact
 
 <div align="center">
 
-I'm always open to discussing embedded systems, IoT solutions, AI integration, or collaboration opportunities!
+Open to discussing embedded systems, IoT, or collaboration opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-glez-chong/)
-[![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael.glez.chong@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-glez-chong/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael.glez.chong@gmail.com)
 
 </div>
 
@@ -377,7 +365,7 @@ I'm always open to discussing embedded systems, IoT solutions, AI integration, o
 
 <div align="center">
 
-### 💡 *"Turning embedded systems into smart solutions — from firmware to cloud, from sensors to AI."*
+### *Electronics Engineer — Embedded Systems, IoT, Field Implementation*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
