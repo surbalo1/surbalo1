@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00D9FF&height=190&section=header&text=Rafael%20González%20Chong&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Cloud%20Solution%20Architect%20%7C%20Electronics%20Engineer&descAlignY=55&descSize=18" alt="Rafael González Chong"/>
 
-### I connect cloud architecture, AI, software, and embedded systems.
+### I turn complex technical needs into clear, practical solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-glez-chong/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rafael-gonzalez.vercel.app/)
@@ -12,9 +12,9 @@
 
 ## About me
 
-I am a Cloud Solution Architect at Microsoft with a background in electronics engineering, embedded systems, IoT, and software development. I enjoy turning technical requirements into practical solutions that connect devices, data, applications, and cloud services.
+I am a Cloud Solution Architect at Microsoft with a foundation in electronics engineering, embedded systems, IoT, and software development. I work across architecture, implementation, and technical communication to connect customer goals with practical engineering decisions.
 
-My current focus is Azure architecture, AI services, security, and enterprise customer scenarios. I also continue building hands on projects with Python, TypeScript, C, ESP32, RSL10, MSP430, MQTT, and related technologies.
+I bring systems thinking from hardware to cloud. My focus is making complex topics easier to understand, identifying risk early, validating ideas through hands on work, and creating reusable solutions that reduce ambiguity and rework.
 
 ```yaml
 location: Mexico City, Mexico
@@ -22,23 +22,23 @@ role: Cloud Solution Architect at Microsoft
 education: B.Sc. in Electronic Engineering
 focus:
   - Azure architecture and AI services
-  - Embedded systems and IoT
-  - Full stack applications and APIs
-  - Technical communication and solution design
+  - Security and reliable platform design
+  - Technical strategy and solution clarity
+  - Embedded systems, IoT, and full stack engineering
 languages:
   - Spanish: Native
   - English: C1
   - German: A2
 ```
 
-## What I am working on
+## How I create value
 
-| Area | Current direction |
+| Area | Approach |
 |:---|:---|
-| Cloud | Azure infrastructure, platform services, architecture, and security |
-| AI | Azure AI services, applied automation, and responsible solution design |
-| Software | Python, TypeScript, React, Next.js, FastAPI, and REST APIs |
-| Embedded and IoT | ESP32, RSL10, MSP430, BLE, MQTT, LoRa, I2C, SPI, and UART |
+| Architecture | Connect business goals, technical constraints, security, and platform capabilities |
+| Execution | Build prototypes and hands on validation to replace assumptions with evidence |
+| Communication | Turn complex technical topics into clear decisions, documentation, and next steps |
+| Improvement | Create reusable patterns that reduce risk, rework, and delivery friction |
 
 ## Selected projects
 
@@ -92,20 +92,30 @@ languages:
 
 ## Experience highlights
 
-- **Cloud Solution Architect, Microsoft:** Building depth in Azure architecture, AI services, security, and enterprise solution design.
+- **Cloud Solution Architect, Microsoft:** Connect customer goals with Azure architecture, AI services, security, and delivery considerations. Collaborate across technical and account roles to improve clarity and move decisions forward.
 - **Operations Technology, Hash Marketing MX:** Built frontend workflows, admin tools, API integrations, and automation scripts.
 - **Systems Integration Engineer, IMTECH Desarrollos:** Supported embedded platform validation with MSP430, RSL10, PLC test benches, and hardware setups.
 - **Electrical Engineer Intern, BALSAS GmbH:** Supported electrical renovation projects in Germany under DIN VDE standards.
 
-## Education and certifications
+## Education and credentials
+
+### Education
 
 - **B.Sc. in Electronic Engineering**, Chihuahua Institute of Technology
 - **Global Summer Institute in Big Data and AI**, The University of Texas at Austin, Fulbright COMEXUS Scholar
-- **Microsoft Azure Fundamentals, AZ 900**
-- **Azure AI Essentials**
+
+### Certifications
+
+- **Microsoft Azure Fundamentals, AZ-900**
+- **Microsoft Azure AI Fundamentals, AI-900**
 - **CompTIA Security+**
 - **Power BI Essentials**
 - **PMI Project Management Foundations**
+
+### Current learning
+
+- **Microsoft Security, Compliance, and Identity Fundamentals, SC-900**
+- Azure architecture, security, AI services, and technical communication
 
 ## GitHub activity
 
