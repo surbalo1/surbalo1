@@ -1,20 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00D9FF&height=190&section=header&text=Rafael%20González%20Chong&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Cloud%20Solution%20Architect%20%7C%20Electronics%20Engineer&descAlignY=55&descSize=18" alt="Rafael González Chong"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00D9FF&height=190&section=header&text=Rafael%20Gonzalez&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Cloud%20Solution%20Architect%20%7C%20Electronics%20Engineer&descAlignY=55&descSize=18" alt="Rafael Gonzalez"/>
 
 ### I turn complex technical needs into clear, practical solutions.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=760&height=60&lines=Azure+%7C+AI+%7C+Cloud+Architecture;Embedded+Systems+%7C+IoT+%7C+Software;Clarity+%7C+Execution+%7C+Continuous+Learning" alt="Areas of expertise"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-glez-chong/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rafael-gonzalez.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael.glez.chong@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=surbalo1&style=for-the-badge&color=0078D4)
 
 </div>
 
 ## About me
 
 I am a Cloud Solution Architect at Microsoft with a foundation in electronics engineering, embedded systems, IoT, and software development. I work across architecture, implementation, and technical communication to connect customer goals with practical engineering decisions.
-
-I bring systems thinking from hardware to cloud. My focus is making complex topics easier to understand, identifying risk early, validating ideas through hands on work, and creating reusable solutions that reduce ambiguity and rework.
 
 ```yaml
 location: Mexico City, Mexico
@@ -35,10 +36,10 @@ languages:
 
 | Area | Approach |
 |:---|:---|
-| Architecture | Connect business goals, technical constraints, security, and platform capabilities |
-| Execution | Build prototypes and hands on validation to replace assumptions with evidence |
-| Communication | Turn complex technical topics into clear decisions, documentation, and next steps |
-| Improvement | Create reusable patterns that reduce risk, rework, and delivery friction |
+| 🏗️ Architecture | Connect business goals, technical constraints, security, and platform capabilities |
+| ⚙️ Execution | Build prototypes and hands on validation to replace assumptions with evidence |
+| 💬 Communication | Turn complex technical topics into clear decisions, documentation, and next steps |
+| 📈 Improvement | Create reusable patterns that reduce risk, rework, and delivery friction |
 
 ## Selected projects
 
@@ -75,54 +76,60 @@ languages:
 
 <div align="center">
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=azure,python,ts,react,nextjs,fastapi,docker,postgres,c,cpp,arduino,raspberrypi,git,linux,vscode,tensorflow,pytorch,opencv&perline=9" alt="Azure, Python, TypeScript, React, Next.js, FastAPI, Docker, PostgreSQL, C, C++, Arduino, Raspberry Pi, Git, Linux, VS Code, TensorFlow, PyTorch, and OpenCV"/>
+
+<br/>
+
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00C853?style=flat-square)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![BLE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-FF6F00?style=flat-square)
+![SPI](https://img.shields.io/badge/SPI-FF6F00?style=flat-square)
+![UART](https://img.shields.io/badge/UART-FF6F00?style=flat-square)
 
 </div>
 
 ## Experience highlights
 
-- **Cloud Solution Architect, Microsoft:** Connect customer goals with Azure architecture, AI services, security, and delivery considerations. Collaborate across technical and account roles to improve clarity and move decisions forward.
-- **Operations Technology, Hash Marketing MX:** Built frontend workflows, admin tools, API integrations, and automation scripts.
-- **Systems Integration Engineer, IMTECH Desarrollos:** Supported embedded platform validation with MSP430, RSL10, PLC test benches, and hardware setups.
-- **Electrical Engineer Intern, BALSAS GmbH:** Supported electrical renovation projects in Germany under DIN VDE standards.
+| | Role | Organization | Focus |
+|:---:|:---|:---|:---|
+| ☁️ | Cloud Solution Architect | Microsoft | Azure, AI, security, solution clarity |
+| 💻 | Operations Technology | Hash Marketing MX | Frontend, APIs, automation |
+| 🔧 | Systems Integration Engineer | IMTECH Desarrollos | MSP430, RSL10, validation |
+| 🌍 | Electrical Engineer Intern | BALSAS GmbH | DIN VDE projects in Germany |
 
 ## Education and credentials
 
-### Education
+| 🎓 Electronic Engineering | 🌎 Fulbright COMEXUS Scholar |
+|:---:|:---:|
+| Chihuahua Institute of Technology | Big Data and AI at UT Austin |
 
-- **B.Sc. in Electronic Engineering**, Chihuahua Institute of Technology
-- **Global Summer Institute in Big Data and AI**, The University of Texas at Austin, Fulbright COMEXUS Scholar
+<div align="center">
 
-### Certifications
+![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AI-900](https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Security+](https://img.shields.io/badge/CompTIA-Security+-E2231A?style=for-the-badge&logo=comptia&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Essentials-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PMI](https://img.shields.io/badge/PMI-Project_Management-4169E1?style=for-the-badge)
 
-- **Microsoft Azure Fundamentals, AZ-900**
-- **Microsoft Azure AI Fundamentals, AI-900**
-- **CompTIA Security+**
-- **Power BI Essentials**
-- **PMI Project Management Foundations**
+### Currently learning
 
-### Current learning
+![SC-900](https://img.shields.io/badge/SC--900-In_Progress-5C2D91?style=flat-square&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Architecture_%26_Security-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Communication](https://img.shields.io/badge/Technical-Communication-00A4EF?style=flat-square)
 
-- **Microsoft Security, Compliance, and Identity Fundamentals, SC-900**
-- Azure architecture, security, AI services, and technical communication
+</div>
 
 ## GitHub activity
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=surbalo1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub statistics"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbalo1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Most used languages"/>
+<img src="https://streak-stats.demolab.com?user=surbalo1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surbalo1&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
 
 <br/>
 

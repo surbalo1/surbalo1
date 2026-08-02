@@ -57,7 +57,7 @@ document.head.appendChild(style);
 // Typewriter effect for subtitle
 const typewriter = document.querySelector('.typewriter');
 if (typewriter) {
-    const roles = ['Electronics Engineer', 'IoT Developer', 'Embedded Systems', 'AI Enthusiast'];
+    const roles = ['Cloud Solution Architect', 'Azure & AI', 'Embedded Systems', 'IoT & Software'];
     let roleIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
@@ -92,5 +92,5 @@ if (typewriter) {
 
 // Console easter egg
 console.log('%c⚡ Hello, curious developer!', 'font-size: 24px; font-weight: bold; color: #00d9ff;');
-console.log('%cBuilt by Rafael González Chong', 'font-size: 14px; color: #a0a0b0;');
+console.log('%cBuilt by Rafael Gonzalez', 'font-size: 14px; color: #a0a0b0;');
 console.log('%cCheck out my GitHub: https://github.com/surbalo1', 'font-size: 12px; color: #7c3aed;');
