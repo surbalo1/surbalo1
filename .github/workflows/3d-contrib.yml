@@ -2,16 +2,18 @@ name: Generate 3D Contribution Calendar
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
+    - cron: "0 3 * * 0"  # Runs weekly on Sunday at 03:00 UTC
   workflow_dispatch:
-  push:
-    branches:
-      - main
+
+concurrency:
+  group: profile-3d-contribution
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate 3D Contribution Calendar
+    timeout-minutes: 10
     permissions:
       contents: write
     steps:

@@ -2,12 +2,12 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs every 12 hours
-    - cron: "0 */12 * * *"
+    - cron: "15 3 * * *"  # Runs daily at 03:15 UTC
   workflow_dispatch:
-  push:
-    branches:
-      - main
+
+concurrency:
+  group: profile-snake-animation
+  cancel-in-progress: true
 
 jobs:
   generate:
