@@ -35,12 +35,11 @@ languages:
 
 ## From the board to the cloud
 
-I've worked on every box in this diagram:
-
-```text
-Sensor     ──▶  Firmware        ──▶  Connectivity     ──▶  Cloud  ──▶  AI
-PCB, test       C, MicroPython       MQTT, LoRa, BLE       Azure       LLMs, RAG, agents
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/flow-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/flow-light.svg">
+  <img alt="Sensor, Firmware, Connectivity, Cloud, AI: I've worked on every box in this diagram" src="./assets/flow-light.svg" width="100%">
+</picture>
 
 Most cloud architects start at the cloud. I started at the sensor, so when a customer says "the data looks weird", I know where to look.
 
@@ -93,7 +92,15 @@ Most cloud architects start at the cloud. I started at the sensor, so when a cus
 
 </div>
 
-## Experience highlights
+## Journey
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/journey-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/journey-light.svg">
+  <img alt="Career timeline from electronics technician in Chihuahua (2022) to Cloud Solution Architect at Microsoft in Mexico City (2026)" src="./assets/journey-light.svg" width="100%">
+</picture>
+
+### Experience highlights
 
 | | Role | Organization | Focus |
 |:---:|:---|:---|:---|
@@ -123,6 +130,12 @@ Most cloud architects start at the cloud. I started at the sensor, so when a cus
 ![Communication](https://img.shields.io/badge/Technical-Communication-00A4EF?style=flat-square)
 
 </div>
+
+## Latest activity
+
+<!--START_SECTION:activity-->
+_Updating soon._
+<!--END_SECTION:activity-->
 
 ## GitHub activity
 
