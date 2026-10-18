@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00D9FF&height=190&section=header&text=Rafael%20Gonzalez&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Cloud%20Solution%20Architect%20%7C%20Electronics%20Engineer&descAlignY=55&descSize=18" alt="Rafael Gonzalez"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00D9FF&height=190&section=header&text=Rafael%20Gonzalez&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Cloud%20Solution%20Architect%20%40%20Microsoft&descAlignY=55&descSize=18" alt="Rafael Gonzalez"/>
 
-### I turn complex technical needs into clear, practical solutions.
+### I build things from the board to the cloud.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=760&height=60&lines=Azure+%7C+AI+%7C+Cloud+Architecture;Embedded+Systems+%7C+IoT+%7C+Software;Clarity+%7C+Execution+%7C+Continuous+Learning" alt="Areas of expertise"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=760&height=60&lines=Azure+%2B+AI+at+Microsoft;From+soldering+iron+to+the+cloud;Embedded+%C2%B7+IoT+%C2%B7+Software" alt="Areas of expertise"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-glez-chong/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rafael-gonzalez.vercel.app/)
@@ -15,7 +15,9 @@
 
 ## About me
 
-I am a Cloud Solution Architect at Microsoft with a foundation in electronics engineering, embedded systems, IoT, and software development. I work across architecture, implementation, and technical communication to connect customer goals with practical engineering decisions.
+I'm a Cloud Solution Architect at Microsoft, based in Mexico City. I help teams build on Azure and put AI to work in ways that hold up after the demo.
+
+I didn't start in the cloud. My first job was as an electronics technician in Chihuahua, soldering and debugging IoT boards. From there I moved into firmware, QA, sales, an internship in Germany and systems integration, and every step got me a little closer to the customer and a little further up the stack.
 
 ```yaml
 location: Mexico City, Mexico
@@ -24,7 +26,6 @@ education: B.Sc. in Electronic Engineering
 focus:
   - Azure architecture and AI services
   - Security and reliable platform design
-  - Technical strategy and solution clarity
   - Embedded systems, IoT, and full stack engineering
 languages:
   - Spanish: Native
@@ -32,20 +33,22 @@ languages:
   - German: A2
 ```
 
-## How I create value
+## From the board to the cloud
 
-| Area | Approach |
-|:---|:---|
-| 🏗️ Architecture | Connect business goals, technical constraints, security, and platform capabilities |
-| ⚙️ Execution | Build prototypes and hands on validation to replace assumptions with evidence |
-| 💬 Communication | Turn complex technical topics into clear decisions, documentation, and next steps |
-| 📈 Improvement | Create reusable patterns that reduce risk, rework, and delivery friction |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/flow-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/flow-light.svg">
+  <img alt="Sensor, Firmware, Connectivity, Cloud, AI: I've worked on every box in this diagram" src="./assets/flow-light.svg" width="100%">
+</picture>
+
+Most cloud architects start at the cloud. I started at the sensor, so when a customer says "the data looks weird", I know where to look.
 
 ## Selected projects
 
 | Project | Impact | Main technologies |
 |:---|:---|:---|
 | [Pharmacy AI Automation](https://github.com/surbalo1/Pharmacy-AI-automation-system) | AI automation platform for pharmacy workflows, communication, and analytics | Python, AI, APIs |
+| [AI Coaching System](https://github.com/surbalo1/ai-coaching-system) | Multi-agent workflows, a RAG knowledge base, and video processing behind one dashboard | Python, FastAPI, React, RAG |
 | [IoT Sensor Pipeline](https://github.com/surbalo1/iot-sensor-pipeline) | Connects simulated sensors to a live dashboard through an end to end data pipeline | MQTT, Node.js, PostgreSQL, Docker |
 | [ESP32 AC Motor Controller](https://github.com/surbalo1/esp32-ac-motor-controller) | Controls AC motor speed with phase angle modulation on ESP32 | C++, ESP32, control systems |
 | [RSL10 and Arduino I2C](https://github.com/surbalo1/RSL10-Arduino-I2C-Communication) | Implements bidirectional communication between RSL10 and Arduino | C, I2C, embedded systems |
@@ -67,7 +70,6 @@ languages:
 
 - [ESP32 Weather Client](https://github.com/surbalo1/esp32-weather-client)
 - [Sensor Dashboard](https://github.com/surbalo1/sensor-dashboard)
-- [AI Coaching System](https://github.com/surbalo1/ai-coaching-system)
 - [Multi Personality Chatbot](https://github.com/surbalo1/multi-personality-chatbot)
 
 </details>
@@ -90,7 +92,15 @@ languages:
 
 </div>
 
-## Experience highlights
+## Journey
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/journey-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/journey-light.svg">
+  <img alt="Career timeline from electronics technician in Chihuahua (2022) to Cloud Solution Architect at Microsoft in Mexico City (2026)" src="./assets/journey-light.svg" width="100%">
+</picture>
+
+### Experience highlights
 
 | | Role | Organization | Focus |
 |:---:|:---|:---|:---|
@@ -121,6 +131,12 @@ languages:
 
 </div>
 
+## Latest activity
+
+<!--START_SECTION:activity-->
+_Updating soon._
+<!--END_SECTION:activity-->
+
 ## GitHub activity
 
 <div align="center">
@@ -143,9 +159,9 @@ languages:
 
 </div>
 
-## Contact
+## Let's build something
 
-I am open to conversations about Azure, AI, embedded systems, IoT, software projects, and technical collaboration.
+Whether it's about Azure, AI, or something you're building with hardware, my inbox is open.
 
 - [LinkedIn](https://www.linkedin.com/in/rafael-glez-chong/)
 - [Portfolio](https://rafael-gonzalez.vercel.app/)
