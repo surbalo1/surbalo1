@@ -136,6 +136,10 @@ Most cloud architects start at the cloud. I started at the sensor, so when a cus
 <!--START_SECTION:activity-->
 1. 🔨 Pushed 1 commit to [surbalo1/surbalo1](https://github.com/surbalo1/surbalo1)
 2. 🔨 Pushed 1 commit to [surbalo1/personal-website](https://github.com/surbalo1/personal-website)
+3. 🔀 Merged PR [#1](https://github.com/surbalo1/surbalo1/pull/1) in [surbalo1/surbalo1](https://github.com/surbalo1/surbalo1)
+4. 🔀 Opened PR [#1](https://github.com/surbalo1/surbalo1/pull/1) in [surbalo1/surbalo1](https://github.com/surbalo1/surbalo1)
+5. 🔀 Merged PR [#10](https://github.com/surbalo1/personal-website/pull/10) in [surbalo1/personal-website](https://github.com/surbalo1/personal-website)
+6. 🔀 Opened PR [#10](https://github.com/surbalo1/personal-website/pull/10) in [surbalo1/personal-website](https://github.com/surbalo1/personal-website)
 <!--END_SECTION:activity-->
 
 ## GitHub activity
