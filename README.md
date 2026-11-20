@@ -27,6 +27,7 @@ focus:
   - Azure architecture and AI services
   - Security and reliable platform design
   - Embedded systems, IoT, and full stack engineering
+  - Data engineering (bronze/silver/gold pipelines, SQL, data quality)
 languages:
   - Spanish: Native
   - English: C1
@@ -47,6 +48,7 @@ Most cloud architects start at the cloud. I started at the sensor, so when a cus
 
 | Project | Impact | Main technologies |
 |:---|:---|:---|
+| [Video Stats Pipeline](https://github.com/surbalo1/video-stats-pipeline) | Bronze/silver/gold pipeline with data-quality checks behind the weekly report of my finance video channel | Python, SQL, SQLite, GitHub Actions |
 | [Pharmacy AI Automation](https://github.com/surbalo1/Pharmacy-AI-automation-system) | AI automation platform for pharmacy workflows, communication, and analytics | Python, AI, APIs |
 | [AI Coaching System](https://github.com/surbalo1/ai-coaching-system) | Multi-agent workflows, a RAG knowledge base, and video processing behind one dashboard | Python, FastAPI, React, RAG |
 | [IoT Sensor Pipeline](https://github.com/surbalo1/iot-sensor-pipeline) | Connects simulated sensors to a live dashboard through an end to end data pipeline | MQTT, Node.js, PostgreSQL, Docker |
