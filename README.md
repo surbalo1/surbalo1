@@ -136,12 +136,12 @@ Most cloud architects start at the cloud. I started at the sensor, so when a cus
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🔨 Pushed 1 commit to [surbalo1/surbalo1](https://github.com/surbalo1/surbalo1)
-2. 📝 Closed issue [#1](https://github.com/surbalo1/video-stats-pipeline/issues/1) in [surbalo1/video-stats-pipeline](https://github.com/surbalo1/video-stats-pipeline)
-3. 🔀 Merged PR [#4](https://github.com/surbalo1/video-stats-pipeline/pull/4) in [surbalo1/video-stats-pipeline](https://github.com/surbalo1/video-stats-pipeline)
-4. 🔀 Opened PR [#4](https://github.com/surbalo1/video-stats-pipeline/pull/4) in [surbalo1/video-stats-pipeline](https://github.com/surbalo1/video-stats-pipeline)
-5. 📝 Opened issue [#3](https://github.com/surbalo1/video-stats-pipeline/issues/3) in [surbalo1/video-stats-pipeline](https://github.com/surbalo1/video-stats-pipeline)
-6. 📝 Opened issue [#2](https://github.com/surbalo1/video-stats-pipeline/issues/2) in [surbalo1/video-stats-pipeline](https://github.com/surbalo1/video-stats-pipeline)
+1. 🔨 Pushed 1 commit to [surbalo1/video-stats-pipeline](https://github.com/surbalo1/video-stats-pipeline)
+2. 🔨 Pushed 1 commit to [surbalo1/surbalo1](https://github.com/surbalo1/surbalo1)
+3. 📝 Closed issue [#1](https://github.com/surbalo1/video-stats-pipeline/issues/1) in [surbalo1/video-stats-pipeline](https://github.com/surbalo1/video-stats-pipeline)
+4. 🔀 Merged PR [#4](https://github.com/surbalo1/video-stats-pipeline/pull/4) in [surbalo1/video-stats-pipeline](https://github.com/surbalo1/video-stats-pipeline)
+5. 🔀 Opened PR [#4](https://github.com/surbalo1/video-stats-pipeline/pull/4) in [surbalo1/video-stats-pipeline](https://github.com/surbalo1/video-stats-pipeline)
+6. 📝 Opened issue [#3](https://github.com/surbalo1/video-stats-pipeline/issues/3) in [surbalo1/video-stats-pipeline](https://github.com/surbalo1/video-stats-pipeline)
 <!--END_SECTION:activity-->
 
 ## GitHub activity
